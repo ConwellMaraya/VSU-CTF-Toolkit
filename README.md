@@ -8,7 +8,9 @@ If the tool is a link, please post below under the Category it deals with and a 
 Notes: 
 1. The Tool tcpdump exists natively in Linux, but exists in Windows as Windump, They're interchangable. Install Npcap first then Windump
 2. Burp Community Edition exists as both a Network Analysis and Web Exploit Tool, but it's in the Network Analysis folder because why not
-3. The Linux folder contains scripts to install packages, please look up how to run shell scripts and feel free to read through them, they might contain a virus idk.
+3. Same case with Nmap, Nmap in windows can be used the same way as nc or ncat in linux
+4. The Linux folder contains scripts to install packages, please look up how to run shell scripts and feel free to read through them, they might contain a virus idk.
+5. The shell scripts are working under the assumption that you're using Ubuntu or a similar distro, if not then check the script for the packages and install them accordingly
 
 
 
