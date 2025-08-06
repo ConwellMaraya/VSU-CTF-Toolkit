@@ -43,6 +43,7 @@ Feel Free to tag me (Conwell Maraya) for clarification and assistance
 | Tool                    | Purpose                         | Link                                          |
 | ----------------------- | ------------------------------- | --------------------------------------------- |
 | Ghidra                 | Reverse Engineering Tool (Needs to be downloaded)        | [Ghidra](https://github.com/NationalSecurityAgency/ghidra)|
+| ROPgadget              | Return Oriented Programming tool that scans for gadgets(Needs to be downloaded)|[ROPgadget](https://github.com/JonathanSalwan/ROPgadget)|
 
 ## Windows Investigation Techniques
 
