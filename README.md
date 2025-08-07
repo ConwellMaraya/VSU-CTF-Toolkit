@@ -44,6 +44,7 @@ Feel Free to tag me (Conwell Maraya) for clarification and assistance
 | ----------------------- | ------------------------------- | --------------------------------------------- |
 | Ghidra                 | Reverse Engineering Tool (Needs to be downloaded)        | [Ghidra](https://github.com/NationalSecurityAgency/ghidra)|
 | ROPgadget              | Return Oriented Programming tool that scans for gadgets(Needs to be downloaded)|[ROPgadget](https://github.com/JonathanSalwan/ROPgadget)|
+|ExploitDB               | Database for existing Exploits             |[ExploitDB](https://www.exploit-db.com/)|
 
 ## Windows Investigation Techniques
 
